@@ -66,3 +66,7 @@ bottomNavItems.forEach((item, index) => {
         bottomMove.style.left = index * 25 + '%'
     }
 })
+
+function redirectToYoutube(){
+    window,location.href="https://youtu.be/d54mygVAPFk?si=rfmWyyEXxUMEQBjl";
+}
