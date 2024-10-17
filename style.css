@@ -68,7 +68,8 @@ html {
 }
 
 #home {
-    background-image: url(Phoif);
+    background-image: url(bg.jpg);
+    display: flex;
 }
 
 .menu-item:hover,
